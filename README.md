@@ -1,7 +1,3 @@
-cd /mnt/data/projectchicken_project
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-github-repository-url>
-git push -u origin main
+โปรเจคนี้คือ ระบบร้านขายไก่เป้นเว้บสำหรับสั่งอาหารไปรับหรือเดลิวาลีได้ 
+มีระบบสมัครสมาชิกพอสมัครแล้วจะเด้งขึ้นหลังบ้าน 
+และมีเมนูเกี่ยวกับไก่ให้เลือกอีกมากมาย
